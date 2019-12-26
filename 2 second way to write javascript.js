@@ -1,0 +1,1 @@
+document.write("second way to write javascript");
